@@ -1,4 +1,4 @@
-# -Object-Oriented-Programming-Python
+# Object-Oriented-Programming-Python
 It is a practice of object oriented programming.
 Please check also cryptodata folder.
 
